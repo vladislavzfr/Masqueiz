@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\bin\Debug\TimeLastRepnikov02Btd4110.exe.config
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\bin\Debug\TimeLastRepnikov02Btd4110.exe
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\bin\Debug\TimeLastRepnikov02Btd4110.pdb
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.Form1.resources
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.Properties.Resources.resources
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.exe
+C:\Users\Администратор\source\repos\TimeLastRepnikov02Btd4110\TimeLastRepnikov02Btd4110\obj\Debug\TimeLastRepnikov02Btd4110.pdb
